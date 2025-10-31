@@ -1,0 +1,13 @@
+{
+  "classes": [
+    "Bedok",
+    "City Hall",
+    "Clementi",
+    "Esplanade",
+    "MBS",
+    "Orchard"
+  ],
+  "seq_len": 60,
+  "feature_dim": 258,
+  "framework": "tf.keras"
+}
