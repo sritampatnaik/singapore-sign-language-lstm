@@ -24,6 +24,8 @@ data/
 *.weights
 artifacts/
 artifacts_3_classes/
+artifacts_4_classes/
+artifacts_6_classes/
 MP_Videos_All/
 MP_Videos_All_annotated/
 MP_Videos_All_annotated_hands_only/
